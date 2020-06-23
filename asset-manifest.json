@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sowmya-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sowmya-app/static/js/main.6cd2f6fb.chunk.js",
+    "main.js.map": "/sowmya-app/static/js/main.6cd2f6fb.chunk.js.map",
+    "runtime-main.js": "/sowmya-app/static/js/runtime-main.9157bdac.js",
+    "runtime-main.js.map": "/sowmya-app/static/js/runtime-main.9157bdac.js.map",
+    "static/js/2.39a32ada.chunk.js": "/sowmya-app/static/js/2.39a32ada.chunk.js",
+    "static/js/2.39a32ada.chunk.js.map": "/sowmya-app/static/js/2.39a32ada.chunk.js.map",
+    "index.html": "/sowmya-app/index.html",
+    "precache-manifest.dc7a21d04f386b654149c21d6db39980.js": "/sowmya-app/precache-manifest.dc7a21d04f386b654149c21d6db39980.js",
+    "service-worker.js": "/sowmya-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sowmya-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.39a32ada.chunk.js.LICENSE.txt": "/sowmya-app/static/js/2.39a32ada.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sowmya-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9157bdac.js",
+    "static/js/2.39a32ada.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6cd2f6fb.chunk.js"
+  ]
+}
