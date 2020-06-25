@@ -13,7 +13,7 @@ import Home from './Home';
 
         <BrowserRouter>
         <Switch>
-           <Route exact path='' component={Home} />
+           <Route exact path='/home' component={Home} />
            <Route exact path='/resume' component={Resume} />
         </Switch>
         </BrowserRouter>
