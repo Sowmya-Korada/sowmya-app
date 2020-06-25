@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c33163d6ed68e48888b9c8d724aa299",
+    "revision": "79c459e9db8eebabca1de9e2442b8e54",
     "url": "/sowmya-app/index.html"
   },
   {
-    "revision": "71adc07e312632062811",
+    "revision": "19943df006b0ed449285",
     "url": "/sowmya-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sowmya-app/static/js/2.24eebbb1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71adc07e312632062811",
-    "url": "/sowmya-app/static/js/main.f44eade5.chunk.js"
+    "revision": "19943df006b0ed449285",
+    "url": "/sowmya-app/static/js/main.1d15202c.chunk.js"
   },
   {
     "revision": "cd95aee7ce0d6158a9e6",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sowmya-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/sowmya-app/static/js/main.f44eade5.chunk.js",
-    "main.js.map": "/sowmya-app/static/js/main.f44eade5.chunk.js.map",
+    "main.js": "/sowmya-app/static/js/main.1d15202c.chunk.js",
+    "main.js.map": "/sowmya-app/static/js/main.1d15202c.chunk.js.map",
     "runtime-main.js": "/sowmya-app/static/js/runtime-main.9157bdac.js",
     "runtime-main.js.map": "/sowmya-app/static/js/runtime-main.9157bdac.js.map",
     "static/js/2.24eebbb1.chunk.js": "/sowmya-app/static/js/2.24eebbb1.chunk.js",
     "static/js/2.24eebbb1.chunk.js.map": "/sowmya-app/static/js/2.24eebbb1.chunk.js.map",
     "index.html": "/sowmya-app/index.html",
-    "precache-manifest.66466905f89d2a73cb2bb02a61e5008b.js": "/sowmya-app/precache-manifest.66466905f89d2a73cb2bb02a61e5008b.js",
+    "precache-manifest.51029085749e3bba4f4572a78ef53172.js": "/sowmya-app/precache-manifest.51029085749e3bba4f4572a78ef53172.js",
     "service-worker.js": "/sowmya-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/sowmya-app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.24eebbb1.chunk.js.LICENSE.txt": "/sowmya-app/static/js/2.24eebbb1.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9157bdac.js",
     "static/js/2.24eebbb1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f44eade5.chunk.js"
+    "static/js/main.1d15202c.chunk.js"
   ]
 }
